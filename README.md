@@ -5,7 +5,7 @@ The Dashboard of PowerBi where the analysis of the dataset named Sample Supersto
 ## Overview
 This repository contains the Power BI project for analyzing sales data and Superstore dataset to perform an in-depth analysis of sales, profit, and payment mode. Using Power BI, I developed interactive dashboards and visualizations to uncover actionable insights and drive data-driven decision-making.
 
-🚀 Key Features
+
 ## Tools Used
 
 - **Power BI**: Main tool for creating the dashboard and visualizing the data.
